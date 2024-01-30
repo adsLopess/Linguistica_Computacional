@@ -9,3 +9,4 @@ Introduzir os fundamentos e principais direcionamentos da Linguística Computaci
 * Familiarização com as diferentes formas de codificar computacionalmente estruturas linguísticas para testar hipóteses na área e melhorar sistemas de Processamento de Língua Natural;
 * Preparação para acompanhar os principais avanços sobre NLP e tecnologias nos principais veículos científicos da área.
 
+ <img src="https://uploads-ssl.webflow.com/5ec6a20095cdf182f108f666/5f22908f09f2341721cd8901_AI%20poster.png">
