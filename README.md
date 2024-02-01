@@ -1,4 +1,4 @@
-# Linguistica Computacional
+# Linguistica Computacional | LLM's
 
 **Objetivo**
 Introduzir os fundamentos e principais direcionamentos da Linguística Computacional
@@ -8,6 +8,11 @@ Introduzir os fundamentos e principais direcionamentos da Linguística Computaci
 * Capacitação para modelar e conduzir análises de erros de sistemas de Processamento de Linguagem Natural numa abordagem linguística;
 * Familiarização com as diferentes formas de codificar computacionalmente estruturas linguísticas para testar hipóteses na área e melhorar sistemas de Processamento de Língua Natural;
 * Preparação para acompanhar os principais avanços sobre NLP e tecnologias nos principais veículos científicos da área.
+
+Pré-requisitos:
+* Conceitos básicos de Processamento de Linguagem Natural (NLP).
+* Familiaridade com Python.
+
 
 <a href="https://www.youtube.com/watch?v=T4_J6Q2E4k0&list=PLLrlHSmC0Mw73a1t73DEjgGMPyu8QssWT&index=1" target="_blank" >Link do curso completo </a>
 <img src="https://uploads-ssl.webflow.com/5ec6a20095cdf182f108f666/5f22908f09f2341721cd8901_AI%20poster.png">
